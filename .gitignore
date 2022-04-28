@@ -11,7 +11,7 @@ semanticdb
 url
 ede-projects.el
 .DS_Store
-custom.el
+/personal/custom.el
 places
 .smex-items
 savefile/
@@ -32,3 +32,5 @@ var/
 .lsp-session*
 gotools/
 eln-cache/
+.mc-lists.el
+
